@@ -1,0 +1,2 @@
+21/09/2022-14:14:14 PM	d15c2032-f424-40c1-906b-9e78a098fbc4	Error	Not allowed by CORS
+21/09/2022-14:22:27 PM	1015fe17-eaf8-466d-8b54-3de684a4ae5b	Error	Not allowed by CORS

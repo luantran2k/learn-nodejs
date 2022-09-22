@@ -1,0 +1,9 @@
+20/09/2022-09:34:02 AM	9344f2a2-856d-4566-b3f3-ad7c4b855c42	Log event emitted!
+20/09/2022-09:34:43 AM	7d54d889-9247-4454-88d5-d109ca5f2aef	Log event emitted!
+20/09/2022-09:34:43 AM	4071b53e-63ce-4399-82d5-54305ca96222	Log event emitted!
+20/09/2022-09:34:54 AM	c70502e7-cf43-4a9f-96d6-4da50359b684	Log event emitted!
+20/09/2022-09:34:54 AM	fc654a28-72fc-44ac-892e-535de375156f	Log event emitted!
+20/09/2022-09:38:08 AM	cde4004d-f4d3-48b1-bbbd-009341c77518	Log event emitted!
+21/09/2022-12:56:53 PM	533f3fe6-4295-4ecd-a08f-caee7bd7f109	GET	undefined	/
+21/09/2022-12:56:53 PM	eec5cb29-2a38-4894-85e6-1a4b469b8b7d	GET	undefined	/css/style.css
+21/09/2022-12:56:53 PM	1ae751e1-e161-4bae-b9df-a7f56e4eba39	GET	undefined	/img/img1.png
