@@ -1,2 +1,13 @@
 21/09/2022-14:14:14 PM	d15c2032-f424-40c1-906b-9e78a098fbc4	Error	Not allowed by CORS
 21/09/2022-14:22:27 PM	1015fe17-eaf8-466d-8b54-3de684a4ae5b	Error	Not allowed by CORS
+22/09/2022-21:50:33 PM	5e7636e7-ffd6-4da5-b528-3cd2beb3841f	Error	ENOENT: no such file or directory, stat 'E:\Workspace\nodejs\learn-nodejs\routes\views\index.html'
+22/09/2022-21:50:44 PM	edb8e6a2-1da0-465f-853b-ea3b3baef123	Error	ENOENT: no such file or directory, stat 'E:\Workspace\nodejs\learn-nodejs\routes\views\index.html'
+22/09/2022-21:50:53 PM	5c39a926-1441-48f2-a03c-5f945f6645d9	Error	ENOENT: no such file or directory, stat 'E:\Workspace\nodejs\learn-nodejs\routes\views\index.html'
+22/09/2022-21:50:58 PM	e305b7c3-f1a3-4bbb-bf22-43d13ed03abc	Error	ENOENT: no such file or directory, stat 'E:\Workspace\nodejs\learn-nodejs\routes\views\index.html'
+22/09/2022-21:51:43 PM	0561e6c5-c3ef-487e-8fcb-76516b5bec10	Error	ENOENT: no such file or directory, stat 'E:\Workspace\nodejs\learn-nodejs\routes\views\index.html'
+22/09/2022-21:54:39 PM	f462cf3b-0a7c-418c-9a8a-248e5c9af045	Error	ENOENT: no such file or directory, stat 'E:\Workspace\nodejs\learn-nodejs\routes\img\img1.png'
+22/09/2022-21:54:52 PM	bd27b2be-5b72-459d-80ed-39bb3aaea2fb	Error	ENOENT: no such file or directory, stat 'E:\Workspace\nodejs\learn-nodejs\routes\img\img1.png'
+22/09/2022-21:55:00 PM	a2843d5d-7e67-4b10-b4bf-e068b7cbe390	Error	ENOENT: no such file or directory, stat 'E:\Workspace\nodejs\learn-nodejs\routes\img\img1.png'
+22/09/2022-21:55:29 PM	647b6464-8dff-40ee-b3b6-549a031e56b0	Error	ENOENT: no such file or directory, stat 'E:\Workspace\nodejs\learn-nodejs\img\img1.png'
+22/09/2022-21:55:30 PM	9fc1cb4f-c1ee-44eb-885d-262d7e41306f	Error	ENOENT: no such file or directory, stat 'E:\Workspace\nodejs\learn-nodejs\img\img1.png'
+23/09/2022-14:43:30 PM	04bda64e-d5f4-4ccf-96cb-025c4b4d2eeb	TypeError	bcrypt.match is not a function
